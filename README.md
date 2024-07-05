@@ -13,7 +13,7 @@ Some potential uses cases and ways to use this repository are:
 
 If the above sounds like a good goal to you, please contribute your projects logo!
 
-### Contributing
+## Contributors ✨
 
 1. Fork this repository
 2. Determine if your logo is `official` by considering if you meet one (or more) of the following conditions:
